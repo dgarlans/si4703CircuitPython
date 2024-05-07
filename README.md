@@ -1,3 +1,14 @@
+# Introduction
+
+This fork is a reworking of the original code to make it work within Circuitpython rather than Raspberry PI styled Python.
+Testing has been done on an Adafruit Feather RP2040 module. 
+
+Basic functionality has been replicated so far (pending uploading the new changes to here) with the exception of the IRQ feature.
+
+
+
+
+
 # si4703 Raspberry Pi GPIO Python Library
 
 This is a project which contains a simple library for controlling the si4703 device via I2C using a Raspberry Pi and Python
